@@ -1,7 +1,5 @@
 # tastProject
 これはリポジトリのテスト用です。
-新しいファイルを作成しました
-<html>
     <head>
         <title>3-3-4</title>
         <style type="text/css">
